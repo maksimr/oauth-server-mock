@@ -1,0 +1,19 @@
+{
+  "name": "oauth-server-mock",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.0.2",
+    "eslint": "^3.2.0",
+    "nock": "^8.0.0"
+  },
+  "dependencies": {
+  }
+}
