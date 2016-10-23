@@ -6,6 +6,7 @@
   },
   "globals": {
     "beforeAll": false,
+    "it": false,
     "afterAll": false,
     "beforeEach": false,
     "afterEach": false,
